@@ -21,4 +21,5 @@ Technologies Used:
 HTML: Structures the content and layout of the website.
 CSS: Styles the website, including colors, typography, and visual effects.
 JavaScript: Enhances interactivity, such as smooth scrolling, image galleries, and animations.
+
 Note: If you need further assistance or code examples, please let me know, and I'll be glad to help you.
