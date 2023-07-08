@@ -3,7 +3,9 @@ Experience the Cake Shop Showcase: A visually stunning, single-page website craf
 
 The Cake Shop Showcase Website is a single-page web application created using HTML, CSS, and JavaScript. This website serves as a visually engaging display for a cake shop, providing visitors with an immersive experience to explore the shop's delightful creations.
 The website features a modern and responsive design that adapts seamlessly to different screen sizes, ensuring a consistent experience.
+
 Key Features:
+
 Hero Section: It welcomes visitors with a captivating image or slideshow that showcases the cake shop's signature creations. It sets a visually appealing tone and captures the attention of visitors.
 
 Cake Gallery: This section displays an assortment of visually stunning cake images in an attractive grid layout. Each image represents a unique cake design, allowing visitors to appreciate the artistry and craftsmanship of the shop's creations. 
